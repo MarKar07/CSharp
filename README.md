@@ -7,7 +7,12 @@ Tämä tekstiseikkailu on konsolipohjainen roolipeli, jossa pelaaja tutkii vanha
 [Lisää kuva vuokaaviosta tähän]
 
 ## Kuvakaappaukset sovelluksesta
-[Lisää kuvakaappauksia tähän]
+![start](https://github.com/user-attachments/assets/84ca64ef-2cf0-4621-bd00-0831332ccb06)
+![save_game2](https://github.com/user-attachments/assets/9cb3893c-c935-44e4-9baa-eb7c26cc2f13)
+![save_game1](https://github.com/user-attachments/assets/734b310f-3054-4fd2-8ee2-d4dab61c9378)
+![help](https://github.com/user-attachments/assets/290dfdd0-7331-485a-8f55-32284e45f3cf)
+![stats](https://github.com/user-attachments/assets/1470915f-efda-460f-b345-d398b0639112)
+![end](https://github.com/user-attachments/assets/be4825e1-8397-472c-8816-a0df5cb8ddc5)
 
 ## Koodin pääkohdat
 
