@@ -11,6 +11,8 @@ Tämä tekstiseikkailu on konsolipohjainen roolipeli, jossa pelaaja tutkii vanha
 
 ## Koodin pääkohdat
 
+Pelin voin tallentaa ja sen voin ladata myöhemmin. "help"-komennolla peli antaa apua.
+
 ### Player-luokka
 Hallinnoi pelaajan tietoja kuten terveyttä, kultaa ja tavaraluetteloa.
 
